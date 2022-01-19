@@ -1,0 +1,10 @@
+O
+B-cause
+B-doc_type
+B-judges
+M-dem_agent
+M-defendant
+M-demandant
+B-def_agent
+B-legal_regulation
+B-time

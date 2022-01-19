@@ -1,0 +1,11 @@
+├── corpus                  # 训练语料
+│   ├── train_corpus.txt
+│   └── valid_corpus.txt
+├── crf.py                  # 自定义CRF层，拼接到bert层dense网络层后，输出每个label的置信度
+├── data.tar.gz             # 工具标注后的原始语料
+├── models                  # 模型保存文件
+│   └── 20210617.h5
+├── predict.py              # 预测文件
+├── preprocess.py           # 语料读取，创建数据生成器
+├── readme
+└── run.py                  # 模型训练及保存

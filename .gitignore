@@ -1,0 +1,11 @@
+*.zip
+*.rar
+*.tar
+*.pyc
+*.cpython-37.pyc
+__pycache__/
+*.pkl
+best_model/
+model/
+pb_model/
+*.h5
